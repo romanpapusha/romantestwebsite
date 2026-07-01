@@ -8,7 +8,7 @@
 <body>
 
   <header>
-    <h1>My Site</h1>
+    <h1>Test Title</h1>
     <nav>
       <a href="#">Home</a>
       <a href="#">About</a>
